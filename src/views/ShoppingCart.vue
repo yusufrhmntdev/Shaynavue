@@ -65,7 +65,7 @@
                                 Informasi Pembeli:
                             </h4>
                             <div class="user-checkout text-left">
-                                <form>
+                                <form action="">
                                     <div class="form-group">
                                         <label for="namaLengkap">Nama lengkap</label>
                                         <input type="text" class="form-control" id="namaLengkap" aria-describedby="namaHelp" placeholder="Masukan Nama"  v-model="customerInfo.name">
